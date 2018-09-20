@@ -1,5 +1,5 @@
 """
-CELL INQUIRY
+CELL INQUIRY PROJECT
 
 Ben & Kayaan
 """
